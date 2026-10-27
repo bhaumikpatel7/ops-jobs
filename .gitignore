@@ -1,0 +1,6 @@
+node_modules/
+.env*
+*.tar.gz
+.openai/
+.DS_Store
+CivicPath_private_backup*.json
